@@ -82,9 +82,9 @@ namespace CheckEventStatus
         static public void popUp(string mess)
         {
             bool result = false;
-            string title = "Hello";
+            string title = "Lab2";
             int tlen = title.Length;
-            string msg = "StudentID: 18520084!";
+            string msg = "18520142 :>";
             int mlen = msg.Length;
             int resp = 0;
 
